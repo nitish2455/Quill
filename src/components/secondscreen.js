@@ -14,7 +14,7 @@ const Secondscreen = () => {
                   className="w-[120px] h-[100px] relative object-contain mix-blend-lighten"
                   loading="lazy"
                   alt=""
-                  src="/img-1@2x.png"
+                  src="/image-1@2x.png"
                 />
               </div>
               <img
@@ -28,14 +28,14 @@ const Secondscreen = () => {
                   className="self-stretch w-[140px] h-[70px] relative max-w-full  object-contain "
                   loading="lazy"
                   alt=""
-                  src="/img-77@2x.png"
+                  src="/image-77@2x.png"
                 />
               </div>
               <div className="w-[160px] h-[60px]   box-border">
                 <img
                   className=" relative object-contain "
                   alt=""
-                  src="/img-79@2x.png"
+                  src="/image-79@2x.png"
                 />
               </div>
               <div className="w-[140px] h-[35px]  box-border">
@@ -109,7 +109,7 @@ const Secondscreen = () => {
                   className="self-stretch h-[39.6px]  object-contain "
                   loading="lazy"
                   alt=""
-                  src="/img-78@2x.png"
+                  src="/image-78@2x.png"
                  
                 />
               </div>
@@ -126,7 +126,7 @@ const Secondscreen = () => {
                   className="self-stretch "
                   loading="lazy"
                   alt=""
-                  src="/img-82@2x.png"
+                  src="/image-82@2x.png"
                 />
               </div>
             </div>
