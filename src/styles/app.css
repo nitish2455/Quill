@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Free:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Helvetica:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=28+Days+Later:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,500;0,600;1,400&display=swap");
+body {
+  @apply leading-[normal] m-0;
+}
+*,
+::before,
+::after {
+  border-width: 0;
+}
+
+.bg-hero-section {
+  background-image: url(../assets/images/bg-hero.png)
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
