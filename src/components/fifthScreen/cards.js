@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cards = () => {
   return (
-    <div className="w-[400px] rounded-xl border border-white shadow-lg shadow-gray-600  [background:linear-gradient(#0a0917,_#0a0917),_#f8f8f8]   flex flex-col items-end justify-start  text-center  font-poppins   ">
+    <div className="sm:w-[400px] w-[300px] rounded-xl border border-white shadow-lg shadow-gray-600  [background:linear-gradient(#0a0917,_#0a0917),_#f8f8f8]   flex flex-col items-end justify-start  text-center  font-poppins   ">
     <a href="#">
         <img className="rounded-xl overflow-hidden w-[400px]" src="/event.svg" alt="" />
     </a>

@@ -13,9 +13,9 @@ import React from "react";
 const Derby = () => {
   return (
     <div className="w-full overflow-hidden flex flex-col justify-center items-center font-days-later bg-black">
-      <div className="bg-hero-section w-full bg-no-repeat bg-contain ">
+      <div className="bg-hero-section w-full bg-no-repeat bg-contain  ">
         <Navbar />
-        <div className="pt-12 h-screen w-full flex items-center justify-center">
+        <div className="md:pt-12 pt-6 lg:h-screen w-full flex items-center justify-center mx-auto">
           <Home />
         </div>
       </div>

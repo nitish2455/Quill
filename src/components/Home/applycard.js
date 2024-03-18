@@ -2,7 +2,7 @@ import React from 'react'
 
 const Applycard = () => {
   return (
-    <div className="flex-1 ">
+    <div className="flex-1 md:mx-0 sm:mx-12 mx-6 ">
       <div className=' max-w-md rounded-xl border border-white   [background:linear-gradient(#0a0917,_#0a0917),_#f8f8f8] shadow-blue  flex flex-col items-end justify-start  text-center font-poppins '>
       <a href="#">
         <img className="rounded-xl overflow-hidden w-full bg-contain" src="/radiant.png" alt="" />
